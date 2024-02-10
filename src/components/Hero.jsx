@@ -26,6 +26,7 @@ const Hero = () => {
         quibusdam error voluptatibus itaque aperiam eos aliquid quae, illum
         inventore quo nemo modi natus rem minus sit iusto id velit atque.
       </p>
+
       <button onClick={clickHandler} style={{ border: "1px solid black" }}>
         Hello
       </button>
